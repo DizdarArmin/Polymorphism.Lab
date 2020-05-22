@@ -1,0 +1,6 @@
+C:\Users\biggi\Desktop\Polymorphism.Lab\Polymorphism.Lab\bin\Debug\Polymorphism.Lab.exe.config
+C:\Users\biggi\Desktop\Polymorphism.Lab\Polymorphism.Lab\bin\Debug\Polymorphism.Lab.exe
+C:\Users\biggi\Desktop\Polymorphism.Lab\Polymorphism.Lab\bin\Debug\Polymorphism.Lab.pdb
+C:\Users\biggi\Desktop\Polymorphism.Lab\Polymorphism.Lab\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\Polymorphism.Lab\Polymorphism.Lab\obj\Debug\Polymorphism.Lab.exe
+C:\Users\biggi\Desktop\Polymorphism.Lab\Polymorphism.Lab\obj\Debug\Polymorphism.Lab.pdb
